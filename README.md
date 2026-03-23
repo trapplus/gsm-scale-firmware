@@ -247,9 +247,6 @@ pio device monitor --filter esp32_exception_decoder
 
 ---
 
-## Энергопотребление (оценка)
-
-
 ## Сборка и загрузка
 
 ```bash
